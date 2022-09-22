@@ -3,6 +3,6 @@
     "gh-pages": "^4.0.0"
   },
   "scripts": {
-    "deploy": "gh-pages -d ../arquitectura"
+    "deploy": "gh-pages -d ../Arquitectura"
   }
 }
